@@ -78,9 +78,11 @@ Proiect_easychef/
 │   ├── mealdb.ts                 # Integrare TheMealDB API
 │   ├── dietaryPreferences.ts     # Preferințe alimentare
 │   └── normalizeQuantity.ts      # Normalizare cantități
-└── assets/                       # Imagini, fonturi
+├── assets/                       # Imagini, fonturi
     ├── images/                   # Imagini aplicație
     └── fonts/                    # Fonturi personalizate
+└── documentatie/
+    └── Novacescu_Alexandra-Doriana_Documentatie_CTIRO_Licenta.pdf #Documentație
 ```
 
 ## Cerințe sistem
